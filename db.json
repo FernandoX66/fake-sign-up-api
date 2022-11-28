@@ -1,6 +1,1 @@
-{
-  "signUp": {
-    "status": "success", 
-    "message": "Thank you. You are now subscribed."
-  }
-}
+{"signUp":{"status":"success","message": "Thank you. You are now subscribed."}}
